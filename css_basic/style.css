@@ -36,3 +36,9 @@ text-align: center;
  thead{
 	background-color: #ffffff;
  }
+ .logo {
+    font-size: 2em;
+    font-weight: bold;
+    color: #007bff; /* a nice blue color */
+    
+  }
